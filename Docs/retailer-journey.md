@@ -6,8 +6,7 @@ We validate your business and assign a launch category.
 
 ## 2. Set Pricing Logic  
 Once approved, you’ll choose how to handle incoming shopper bids:
-- Auto-approve (e.g., price-match, banner price)
-- Review manually via the Retailer Dashboard
+ Review manually via the Retailer Dashboard
 
 ## 3. Start Receiving Buyer Interest  
 Your brand card becomes visible in our extension and discovery page.  
