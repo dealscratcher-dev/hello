@@ -44,8 +44,7 @@ No need for promo overload or last-minute discount tactics — just smarter, tar
 
 ## Quick Links
 - [Live MVP Preview](#) *(Coming soon)*
-- [Contact the team](Contact/connect.md)
-- [Product Roadmap](MVP/roadmap.md)
+- [Product Roadmap](MVP/Pitch/MVP-Enterprise-Roadmap.png)
 
 ---
 
