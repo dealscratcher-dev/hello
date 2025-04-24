@@ -49,4 +49,4 @@ No need for promo overload or last-minute discount tactics — just smarter, tar
 
 ---
 
-> Built with ❤️ by [Amatuer-cyber](https://github.com/Amatuer-cyber) | [Dealscratcher.com](https://dealscratcher.com)
+> Built with ❤️ by | [Dealscratcher.com](https://dealscratcher.com)
