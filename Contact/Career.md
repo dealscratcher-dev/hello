@@ -1,8 +1,8 @@
 👋 Hi, I'm Romit — founder and currently the only person building Dealscratcher.
 
-I spent 5+ years in Retail at Home Depot Canada, most recently as a business analyst focused on eCommerce operations, reporting, and the connection between pricing, fulfillment, and customer support. I've seen firsthand how pricing friction erodes customer trust and hurts retailer margins.
+I spent 5+ years in Retail at Home Depot Canada, most recently as a business analyst focused on eCommerce operations, reporting, and the connection between pricing, fulfillment, and customer support. 
 
-Dealscratcher is my response to that — a smarter, loyalty-driven pricing platform.  
+Dealscratcher is a smarter, loyalty-driven pricing platform — a hybrid solution that helps customers and businesses negotiate fair, personalized deals.
 I’ve built the MVP solo — including the Chrome extension, FastAPI backend, and the MongoDB-based layered data engine.
 
 I've taken on the role of product architect, and now I'm looking to welcome collaborators with complementary skills to help bring this vision to life.
@@ -23,12 +23,12 @@ We’re not hiring by resumes — we’re looking for mission-aligned collaborat
 
 If any of these sound like you, I’d love to chat:
 
-#### Builder-Minded Engineers
+#### Builder-Minded Engineers and DevOps
 - Interest in Python, FastAPI, or Chrome extensions
 - Comfortable with MongoDB (Design dynamic layerign and moving data,  Meta,Stage and Release data) or API design 
 - Bonus: passion for user privacy and retail tech
 
-#### Data Thinkers & ML Explorers
+#### Data science & ML Explorers
 - Can help build or validate a product-match scoring system
 - Curious about pricing behavior and loyalty modeling
 - Comfortable working with light/medium data (for now)
