@@ -13,22 +13,39 @@ A personalized pricing engine that transforms passive flyers into dynamic deal o
 |              | **Rigid pricing models = lost loyalty**                                       | Adaptive pricing → Stronger margins and better ROAS (Return on Ad Spend).                |
 
 
-## How is this different from Flipp or Honey?
-We don't just digitize deals — we personalize pricing through engagement, loyalty signals, and shopper-brand fit.  
-Unlike cashback or coupon layers, we help buyers and retailers meet in the middle.
+## How is this different?
+Most solutions and coupon aggregators push deals to users — we pull the buyer into the deal creation, then help the retailer meet them halfway.
 
 ## What’s the revenue model?
-Retailer-side pricing intelligence + customer-side conversion support.  
-Options include pay-per-approved-deal, tiered access.
+Our monetization is focused on **retailer-side pricing intelligence** and **customer-side conversion support** — helping brands win loyal buyers at optimized margins.
+
+We offer:
+- **Pay-per-approved-deal**: Retailers pay only when a user-submitted deal is approved, the discount token is issued, and redemption is confirmed through our system.
+- **Tiered access & white-label controls**: Retailers can customize their UI, feature set, and automation rules through embedded components for bids and plugin-out logic.
 
 ## What’s the go-to-market plan?
-We’re starting with deal-savvy communities (RedFlagDeals, price forums, loyalty forums), onboarding retailers manually to prove value on both sides. Our extension would feed the product bids from shoppers and feature the count of website, allowing retailers to plug-in their api to start accessing the deals.
+
+We’re starting with deal-savvy communities — like RedFlagDeals, price forums, and loyalty subreddits — to engage high-intent shoppers who are already active in seeking better prices.
+
+On the supply side, we’ll onboard our first 2 retailers manually to validate value on both sides of the transaction.
+
+Shoppers will use our extension to submit bids on products they care about. Retailers can view these bids, approve the ones that align with their strategy, and optionally plug in their API to automate deal intake and response.
+
+As retailer participation grows, we’ll feature the number of active retailers on our site to build social proof and increase adoption.
 
 ## Is this idea defensible?
-Our defensibility comes from buyer curation, retailer control, and a growing understanding of pre-purchase behavior.  
-The “matchmaking” layer is hard to replicate without cultural and behavioral data.
+Our defensibility comes from three core layers:
+
+1. **Buyer curation**: We attract motivated, high-intent shoppers from niche communities that most platforms overlook or can’t personalize for.
+
+2. **Retailer control**: Unlike marketplaces that commoditize sellers, we give retailers full pricing logic and deal-approval control, which builds long-term adoption and trust.
+
+> We operate at the mercy of our network — both retailers and shoppers — and we embrace that.  
+> Every bid carries value, and our system ensures it reaches the right retailer.  
+> This isn’t just demand capture — it’s demand activation. And when both sides show up, the market responds.
 
 ## What’s your ask right now?
-- Validation and intros to aligned investors or incubators
-- Advice on pricing partnerships
-- Feedback on building smart retailer dashboards
+
+- Validation and introductions to aligned investors or incubators  
+- A friendly conversation to explore the idea in depth  
+- Feedback on building a smart, retailer-first dashboard experience
