@@ -8,8 +8,8 @@ We don't set prices — we let you decide how and when to approve a deal.
 - **Banner Price Matching**  
   Auto-approve any bid that meets your public sale or flyer price.
 
-- **Price Match Approval**  
-  Accept bids that match your store policy (like in-store competitor price match).
+- **Curated bid labeling & filtering**  
+We auto-label incoming bids using smart tags like “YellowTag Clearance”, “Already on promotion”, and “previous bid history”, so you can filter and respond based on what matters most to you.
 
 - **Buyer Loyalty Discount** *(Coming Soon)*  
   Provide special deals for repeat shoppers based on bid history and wishlist patterns.
