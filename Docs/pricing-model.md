@@ -9,9 +9,9 @@ We don't set prices — we let you decide how and when to approve a deal.
   Auto-approve any bid that meets your public sale or flyer price.
 
 - **Curated bid labeling & filtering**  
-We auto-label incoming bids using smart tags like “YellowTag Clearance”, “Already on promotion”, and “previous bid history”, so you can filter and respond based on what matters most to you.
+We auto-label incoming bids using smart tags like “YellowTag Clearance”, “Already on promotion”, and “Grouped Bidding (Same Item)”, so you can filter and respond based on what matters most to you.
 
-- **Buyer Loyalty Discount** *(Coming Soon)*  
+- **Buyer Loyalty Discount**  
   Provide special deals for repeat shoppers based on bid history and wishlist patterns.
 
 - **Custom Token Rules**  
@@ -23,4 +23,3 @@ Each bid is tokenized for **one-time use** and **deal-specific only** — ensuri
 
 ## Transparency  
 You can view all incoming bids in your dashboard, along with counteroffers, user requests, and product match intelligence.
-
