@@ -22,7 +22,6 @@ Here’s where to find what you’re looking for:
 |---------------------|----------------|------------------------------------------------|-----------|
 | **Investor**         | [`Pitch/`](Pitch)       | [`pitch-deck.pdf`](Pitch/pitch-deck.pdf), [`investor-faq.md`](Pitch/investor-faq.md), [`MVP-Enterprise-Roadmap.png`](Pitch/MVP-Enterprise-Roadmap.png) | Understand our business & traction |
 | **Retail Partner**   | [`Docs/`](Docs)         | [`retailer-journey.md`](Docs/retailer-journey.md), [`pricing-model.md`](Docs/pricing-model.md) | Learn integration & deal logic |
-| **Early User**       | [`MVP/`](MVP)           | [`demo.md`](MVP/demo.md), [`screenshots/`](MVP/screenshots/), [`how-it-works.md`](Docs/how-it-works.md) | Explore the experience & functionality |
 | **Incubator / Grant**| [`About/`](About)       | [`vision.md`](About/vision.md), [`founder-note.md`](About/founder-note.md), [`impact.md`](About/impact.md) | Get to know our mission and value |
 | **Career**      | [`Contact/`](Contact)   | [`Career.md`](Contact/Career.md) | Collaborate, advise, or join us |
 | **Legal / Trust**    | [`Legal/`](Legal)       | [`legal.md`](Legal/legal.md)  | Legal protection & data practices |
