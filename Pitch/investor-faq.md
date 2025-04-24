@@ -1,8 +1,7 @@
 ## What is Dealscratcher?
 A personalized pricing engine that transforms passive flyers into dynamic deal opportunities based on how people shop.
 
-## Why
-## 🧭 Why We Started Dealscratcher
+## Why We Started Dealscratcher
 
 | Perspective  | Challenge / Friction                                              | Why It Matters (ROI Angle)                                                               |
 |--------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
