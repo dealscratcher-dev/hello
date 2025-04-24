@@ -1,6 +1,6 @@
 👋 Hi, I'm Romit — founder and currently the only person building Dealscratcher.
 
-I spent 5+ years in Retail at Home Depot, most recently as a business analyst focused on eCommerce operations, reporting, and the connection between pricing, fulfillment, and customer support. I've seen firsthand how pricing friction erodes customer trust and hurts retailer margins.
+I spent 5+ years in Retail at Home Depot Canada, most recently as a business analyst focused on eCommerce operations, reporting, and the connection between pricing, fulfillment, and customer support. I've seen firsthand how pricing friction erodes customer trust and hurts retailer margins.
 
 Dealscratcher is my response to that — a smarter, loyalty-driven pricing platform.  
 I’ve built the MVP solo — including the Chrome extension, FastAPI backend, and the MongoDB-based layered data engine.
