@@ -1,4 +1,3 @@
-- This is an early-stage, unfunded project. We’re not offering salaries (yet), but there’s future equity and founding team opportunities for the right contributors.
 # Careers at Dealscratcher
 
 We're not building just another coupon engine.  
@@ -35,10 +34,10 @@ If any of these sound like you, I’d love to chat:
 ---
 
 ###   What We Offer (Right Now)
-
+This is an early-stage, unfunded project. We’re not offering salaries (yet), but there’s future equity and founding team opportunities for the right contributors.
 - Direct input into product vision and roadmap  
 - Remote-first collaboration with async flexibility  
-- Future equity & founding team pathway (for the right fit)
+- Future equity & founding team pathway (for the right fit). 
 
 ---
 
