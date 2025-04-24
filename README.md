@@ -24,7 +24,7 @@ Here’s where to find what you’re looking for:
 | **Retail Partner**   | [`Docs/`](Docs)         | [`retailer-journey.md`](Docs/retailer-journey.md), [`pricing-model.md`](Docs/pricing-model.md) | Learn integration & deal logic |
 | **Early User**       | [`MVP/`](MVP)           | [`demo.md`](MVP/demo.md), [`screenshots/`](MVP/screenshots/), [`how-it-works.md`](Docs/how-it-works.md) | Explore the experience & functionality |
 | **Incubator / Grant**| [`About/`](About)       | [`vision.md`](About/vision.md), [`founder-note.md`](About/founder-note.md), [`impact.md`](About/impact.md) | Get to know our mission and value |
-| **Career**      | [`Contact/`](Contact)   | [`Career.md`](Contact/contribute.md), [`connect.md`](Contact/connect.md) | Collaborate, advise, or join us |
+| **Career**      | [`Contact/`](Contact)   | [`Career.md`](Career.md) | Collaborate, advise, or join us |
 | **Legal / Trust**    | [`Legal/`](Legal)       | [`privacy.md`](Legal/privacy.md), [`terms.md`](Legal/terms.md), [`disclaimer.md`](Legal/disclaimer.md) | Legal protection & data practices |
 
 ---
