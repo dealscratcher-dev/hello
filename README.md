@@ -25,7 +25,7 @@ Here’s where to find what you’re looking for:
 | **Early User**       | [`MVP/`](MVP)           | [`demo.md`](MVP/demo.md), [`screenshots/`](MVP/screenshots/), [`how-it-works.md`](Docs/how-it-works.md) | Explore the experience & functionality |
 | **Incubator / Grant**| [`About/`](About)       | [`vision.md`](About/vision.md), [`founder-note.md`](About/founder-note.md), [`impact.md`](About/impact.md) | Get to know our mission and value |
 | **Career**      | [`Contact/`](Contact)   | [`Career.md`](Contact/Career.md) | Collaborate, advise, or join us |
-| **Legal / Trust**    | [`Legal/`](Legal)       | [`privacy.md`](Legal/privacy.md), [`terms.md`](Legal/terms.md), [`disclaimer.md`](Legal/disclaimer.md) | Legal protection & data practices |
+| **Legal / Trust**    | [`Legal/`](Legal)       | [`legal.md`](Legal/legal.md)  | Legal protection & data practices |
 
 ---
 
