@@ -9,12 +9,21 @@ A personalized pricing engine that transforms passive flyers into dynamic deal o
 |              | **Buy Now, Pay Later regret** —  paying for a product long after the excitement fades, especially when it’s lost value or seasonal relevance (e.g. patio furniture over 18 months). | Builds trust and emotional satisfaction → Increases repeat buyers and lifetime value.    |
 |              | **Price exploitation on marketplaces** — high margins, resellers, confusion   | Clearer value signals → Reduces churn → Drives brand loyalty without costly incentives.  |
 | Retailer  | **Lack of visibility across market benchmarks**                                | Real-time insights → Dynamic pricing = better margin control and pricing agility.        |
-|              | **Pressure to mimic eCommerce giant scale**                                          | Empowers SMEs with an efficient Go-To-Market strategy — no need for massive infrastructure or a complete website overhaul. Our platform-as-a-service model gives retailers control to define their own pricing logic, including auto-approvals and tokenized discounts for strategies like banner pricing, price-matching, and repeat-buy rewards.        |
+|              | **Pressure to mimic eCommerce giant scale**                                          | Empowers SMEs with an efficient Go-To-Market strategy — no need for massive infrastructure or a complete website overhaul. Our platform-as-a-service model gives retailers control to define their own pricing logic, including auto-approvals for banner pricing, price-matching, and repeat-buy rewards.        |
 |              | **Rigid pricing models = lost loyalty**                                       | Adaptive pricing → Stronger margins and better ROAS (Return on Ad Spend).                |
 
 
 ## How is this different?
-Most solutions and coupon aggregators push deals to users — we pull the buyer into the deal creation, then help the retailer meet them halfway.
+
+Most live solutions and coupon aggregators push pre-set deals to users — generic discounts designed for the masses.
+
+Dealscratcher flips the model:  
+We pull the buyer into the deal creation — enabling intent-based bids, which the retailer can approve or decline based on their own logic.
+
+Each Approved bid issues a personalized discount token, verified through our system.  
+This creates a unique, controlled deal for that shopper — not just a public coupon.
+
+Over time, this interaction generates pre-purchase behavioral data that helps us refine shopper personas, improve targeting, and empower retailers to build smarter pricing strategies.
 
 ## What’s the revenue model?
 Our monetization is focused on **retailer-side pricing intelligence** and **customer-side conversion support** — helping brands win loyal buyers at optimized margins.
