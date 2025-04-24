@@ -6,10 +6,10 @@ A personalized pricing engine that transforms passive flyers into dynamic deal o
 | Perspective  | Challenge / Friction                                              | Why It Matters                                                               |
 |--------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | Shopper   | **Pre- & Post-purchase fatigue** — flyers on Thursday, but motivation today | Reduces friction → Higher conversion at moment of intent → Better unit economics.        |
-|              | **Buy Now, Pay Later regret** — like patio furniture paid over 18 months and emotional distaste if product is depreciating     | Builds trust and emotional satisfaction → Increases repeat buyers and lifetime value.    |
+|              | **Buy Now, Pay Later regret** —  paying for a product long after the excitement fades, especially when it’s lost value or seasonal relevance (e.g. patio furniture over 18 months). | Builds trust and emotional satisfaction → Increases repeat buyers and lifetime value.    |
 |              | **Price exploitation on marketplaces** — high margins, resellers, confusion   | Clearer value signals → Reduces churn → Drives brand loyalty without costly incentives.  |
 | Retailer  | **Lack of visibility across market benchmarks**                                | Real-time insights → Dynamic pricing = better margin control and pricing agility.        |
-|              | **Pressure to mimic Amazon’s scale**                                          | Empowers SMEs → Efficient GTM without needing massive infra → Platform-as-a-service model scales. |
+|              | **Pressure to mimic Ecommerce Giant scale**                                          | Empowers SMEs → Efficient Go-To-Market without needing massive infra and revamp to website → Platform-as-a-service model scales. Retailer can have thier rules and logic of pricing model to auto approve and issue discount token, like Banner price, Price-match and Repeat buy|
 |              | **Rigid pricing models = lost loyalty**                                       | Adaptive pricing → Stronger margins and better ROAS (Return on Ad Spend).                |
 
 
