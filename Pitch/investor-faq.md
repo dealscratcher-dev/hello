@@ -3,16 +3,15 @@ A personalized pricing engine that transforms passive flyers into dynamic deal o
 
 ## Why We Started Dealscratcher
 
-| Perspective  | Challenge / Friction                                              | Why It Matters (ROI Angle)                                                               |
+| Perspective  | Challenge / Friction                                              | Why It Matters                                                               |
 |--------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | Shopper   | **Pre- & Post-purchase fatigue** — flyers on Thursday, but motivation today | Reduces friction → Higher conversion at moment of intent → Better unit economics.        |
-|              | **Buy Now, Pay Later regret** — like patio furniture paid over 18 months     | Builds trust and emotional satisfaction → Increases repeat buyers and lifetime value.    |
+|              | **Buy Now, Pay Later regret** — like patio furniture paid over 18 months and emotional distaste if product is depreciating     | Builds trust and emotional satisfaction → Increases repeat buyers and lifetime value.    |
 |              | **Price exploitation on marketplaces** — high margins, resellers, confusion   | Clearer value signals → Reduces churn → Drives brand loyalty without costly incentives.  |
 | Retailer  | **Lack of visibility across market benchmarks**                                | Real-time insights → Dynamic pricing = better margin control and pricing agility.        |
 |              | **Pressure to mimic Amazon’s scale**                                          | Empowers SMEs → Efficient GTM without needing massive infra → Platform-as-a-service model scales. |
 |              | **Rigid pricing models = lost loyalty**                                       | Adaptive pricing → Stronger margins and better ROAS (Return on Ad Spend).                |
 
-## Why now in 2025
 
 ## How is this different from Flipp or Honey?
 We don't just digitize deals — we personalize pricing through engagement, loyalty signals, and shopper-brand fit.  
