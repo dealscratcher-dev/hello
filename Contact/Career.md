@@ -3,7 +3,7 @@
 I spent 5+ years in Retail at Home Depot Canada, most recently as a business analyst focused on eCommerce operations, reporting, and the connection between pricing, fulfillment, and customer support. 
 
 Dealscratcher is a smarter, loyalty-driven pricing platform — a hybrid solution that helps customers and businesses negotiate fair, personalized deals.
-I’ve built the MVP solo — including the Chrome extension, FastAPI backend, and the MongoDB-based layered data engine.
+I’ve built the MVP solo — including the Chrome extension, FastAPI backend, MongoDB-based layered data engine and other components that can be discussed once you are part of the team. 
 
 I've taken on the role of product architect, and now I'm looking to welcome collaborators with complementary skills to help bring this vision to life.
 
