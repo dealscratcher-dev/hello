@@ -6,21 +6,25 @@ Dealscratcher delivers exclusive, personalized discounts based on how you shop �
 ---
 We’re building a smarter way for deal-seeking customers to connect with brands offering tailored, time-sensitive pricing — where brands reward your engagement with deals tailored just for you — not the masses.
 
-Hi, I'm **Romit** — founder and currently the sole builder of Dealscratcher.
+Hi, I’m Romit — founder of Dealscratcher.
 
-I spent **5+ years at Home Depot Canada**, most recently as a **Business Analyst** focused on eCommerce operations, pricing behavior, fulfillment challenges, and customer experience.
+Before starting this venture, I spent over five years at Home Depot Canada, leading eCommerce operations analysis, pricing behavior strategies, and customer experience optimization.
 
-In retail, every discounting strategy demands custom development just to connect with a niche audience — and even then, loyalty often fades if the brand experience isn’t consistent.  
-Deals and promotions aren't enough anymore.  
-To truly build loyalty, a brand needs three things working together:
+Here’s what I learned:
+In retail, every new discounting strategy demands expensive development and complex integrations — and even then, customer loyalty is fragile if the brand experience isn’t consistent.
 
-1. **A strong brand image** (How does the customer remember your brand in 3 seconds)  
-2. **Ease and convenience** (How your brand is convinenent over any other brands)  
-3. **Memorable experiences** (what is the best experience customer had with your brand and would like to revisit)
+Deals and promotions aren’t enough anymore.
 
-**Dealscratcher exists to solve that gap — by making pricing smarter, faster, and loyalty-driven, without requiring retailers to rebuild their entire eCommerce platform.**
+Loyalty is earned when brands master three things:
+	•	Instant brand recognition (the 3-second memory test)
+	•	Unmatched ease and convenience
+	•	Memorable customer experiences worth repeating
 
-Bring us your pricing challenges, promotion flyers, and discounting hurdles — and we'll help accelerate your engagement, strengthen brand memory, and build lasting value with your customers.
+Dealscratcher is the engine behind that loyalty.
+We make pricing smarter, faster, and more loyalty-driven — without forcing retailers to rebuild their tech stacks.
+
+Bring us your toughest pricing problems, flyer campaigns, and discount strategies —
+Dealscratcher will accelerate your engagement, deepen your brand memory, and drive sustainable customer loyalty.
 
 ---
 
