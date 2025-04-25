@@ -5,7 +5,7 @@ A personalized pricing engine that transforms passive flyers into dynamic deal o
 
 | Perspective  | Challenge / Friction                                              | Why It Matters                                                               |
 |--------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Shopper   | **Pre- & Post-purchase fatigue** — flyers on Thursday, but motivation today | Reduces friction → Higher conversion at moment of intent → Better unit economics.        |
+| Shopper   | **Pre- & Post-purchase fatigue** — flyers on next week, but motivation today | Reduces friction → Higher conversion at moment of intent → Better unit economics.        |
 |              | **Buy Now, Pay Later regret** —  paying for a product long after the excitement fades, especially when it’s lost value or seasonal relevance (e.g. patio furniture over 18 months). | Builds trust and emotional satisfaction → Increases repeat buyers and lifetime value.    |
 |              | **Price exploitation on marketplaces** — high margins, resellers, confusion   | Clearer value signals → Reduces churn → Drives brand loyalty without costly incentives.  |
 | Retailer  | **Lack of visibility across market benchmarks**                                | Real-time insights → Dynamic pricing = better margin control and pricing agility.        |
