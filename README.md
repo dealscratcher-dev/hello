@@ -6,6 +6,32 @@ Dealscratcher delivers exclusive, personalized discounts based on how you shop �
 ---
 We’re building a smarter way for deal-seeking customers to connect with brands offering tailored, time-sensitive pricing — where brands reward your engagement with deals tailored just for you — not the masses.
 
+Hi, I'm **Romit** — founder and currently the sole builder of Dealscratcher.
+
+I spent **5+ years at Home Depot Canada**, most recently as a **Business Analyst** focused on eCommerce operations, pricing behavior, fulfillment challenges, and customer experience.
+
+In retail, every discounting strategy demands custom development just to connect with a niche audience — and even then, loyalty often fades if the brand experience isn’t consistent.  
+Deals and promotions aren't enough anymore.  
+To truly build loyalty, a brand needs three things working together:
+
+1. **A strong brand image** (How does the customer remember your brand in 3 seconds)  
+2. **Ease and convenience** (How your brand is convinenent over any other brands)  
+3. **Memorable experiences** (what is the best experience customer had with your brand and would like to revisit)
+
+**Dealscratcher exists to solve that gap — by making pricing smarter, faster, and loyalty-driven, without requiring retailers to rebuild their entire eCommerce platform.**
+
+Bring us your pricing challenges, promotion flyers, and discounting hurdles — and we'll help accelerate your engagement, strengthen brand memory, and build lasting value with your customers.
+
+---
+
+So I built:
+
+- An MVP Chrome Extension (for buyers to submit deals they care about)
+- FastAPI microservices with a MongoDB pipeline (feeding structured engagement data)
+- A Retailer Platform Dashboard (to control approvals and track deal intelligence)
+
+I’m wearing the **Product Architect** hat — but it's time to grow the team, refine the vision, and bring Dealscratcher to the brands and shoppers who deserve a better pricing experience.
+
 ## 📁 Repository Directory
 
 This repo serves as a transparent knowledge base for all stakeholders.
