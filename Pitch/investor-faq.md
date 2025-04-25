@@ -23,7 +23,7 @@ We pull the buyer into the deal creation — enabling intent-based bids, which t
 Each Approved bid issues a personalized discount token, verified through our system.  
 This creates a unique, controlled deal for that shopper — not just a public coupon.
 
-Over time, this interaction generates pre-purchase behavioral data that helps us refine shopper personas, improve targeting, and empower retailers to build smarter pricing strategies.
+Over time, this interaction generates pre-purchase behavioral data that helps us refine seasonal demand, cart behaviour and empower retailers to build smarter pricing strategies.
 
 ## What’s the revenue model?
 Our monetization is focused on **retailer-side pricing intelligence** and **customer-side conversion support** — helping brands win loyal buyers at optimized margins.
