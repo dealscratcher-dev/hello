@@ -72,7 +72,6 @@ Dealscratcher offers a lightweight plug-in strategy to invite offers from shoppe
 No need for promo overload or last-minute discount tactics — just smarter, targeted engagement that supports your brand and drives sustainable growth.
 
 ## Quick Links
-- [Live MVP Preview](#) *(Coming soon)*
 - [Product Roadmap](Pitch/MVP-Enterprise-Roadmap.png)
 
 ---
