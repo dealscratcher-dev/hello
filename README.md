@@ -1,5 +1,5 @@
 # Dealscratcher
-This repository contains the MVP source code, product vision and business model for Dealscratcher — a price-intelligence platform submitted to DMZ for Startup Visa consideration
+This repository contains the MVP source code, product vision and business model for Dealscratcher — a price-intelligence platform submitted to DMZ consideration
 
 ---
 **Smart Weekly Flyer Engine for Personalized Deal Discovery**
